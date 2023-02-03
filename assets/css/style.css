@@ -427,7 +427,8 @@ input.dtr-search-field { margin-bottom: 0; }
 .bordeada{
     background: #fff;
     color: #142752 !important;
-    padding: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
     margin-top: 10px;
     border-radius: 20px;
 }
